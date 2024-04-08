@@ -4,4 +4,6 @@ submission.csv
 submission_random_forest.csv
 submission_ridge_regression.csv
 submission_xg_boost.csv
+submission_avg_v1.csv
+submission_stacking_v1.csv
 test_func.ipynb

@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="test initial algorithm">
-      <change afterPath="$PROJECT_DIR$/eg_random_forest.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eg_ridge_regression.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eg_xg_boost.ipynb" afterDir="false" />
+    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="generate more algorithms">
+      <change afterPath="$PROJECT_DIR$/eg_simple_avg.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eg_simple_stacking.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,22 +48,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/qihanzhang/PycharmProjects/HomeCredit",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/qihanzhang/PycharmProjects/HomeCredit&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -118,7 +117,8 @@
       <workItem from="1712286616310" duration="1533000" />
       <workItem from="1712288154404" duration="360000" />
       <workItem from="1712356494777" duration="903000" />
-      <workItem from="1712530297228" duration="10568000" />
+      <workItem from="1712530297228" duration="10897000" />
+      <workItem from="1712610747861" duration="2789000" />
     </task>
     <task id="LOCAL-00001" summary="init repository">
       <option name="closed" value="true" />
@@ -136,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712288340186</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="generate more algorithms">
+      <option name="closed" value="true" />
+      <created>1712555295776</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712555295776</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +153,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init repository" />
     <MESSAGE value="test initial algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="test initial algorithm" />
+    <MESSAGE value="generate more algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="generate more algorithms" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
