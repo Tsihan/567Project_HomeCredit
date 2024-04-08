@@ -1,4 +1,7 @@
 test
 train
 submission.csv
-
+submission_random_forest.csv
+submission_ridge_regression.csv
+submission_xg_boost.csv
+test_func.ipynb
