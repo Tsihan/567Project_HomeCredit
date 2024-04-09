@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="generate more algorithms">
-      <change afterPath="$PROJECT_DIR$/eg_simple_avg.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eg_simple_stacking.ipynb" afterDir="false" />
+    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="test simple stacking algorithm, slight improvement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +116,8 @@
       <workItem from="1712288154404" duration="360000" />
       <workItem from="1712356494777" duration="903000" />
       <workItem from="1712530297228" duration="10897000" />
-      <workItem from="1712610747861" duration="2789000" />
+      <workItem from="1712610747861" duration="3470000" />
+      <workItem from="1712691867445" duration="2393000" />
     </task>
     <task id="LOCAL-00001" summary="init repository">
       <option name="closed" value="true" />
@@ -144,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712555295776</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test simple stacking algorithm, slight improvement">
+      <option name="closed" value="true" />
+      <created>1712614041947</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712614041947</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +161,8 @@
     <MESSAGE value="init repository" />
     <MESSAGE value="test initial algorithm" />
     <MESSAGE value="generate more algorithms" />
-    <option name="LAST_COMMIT_MESSAGE" value="generate more algorithms" />
+    <MESSAGE value="test simple stacking algorithm, slight improvement" />
+    <option name="LAST_COMMIT_MESSAGE" value="test simple stacking algorithm, slight improvement" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

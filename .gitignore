@@ -6,4 +6,6 @@ submission_ridge_regression.csv
 submission_xg_boost.csv
 submission_avg_v1.csv
 submission_stacking_v1.csv
+submission_extra_tree.csv
+submission_logistic_regression.csv
 test_func.ipynb
