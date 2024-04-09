@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="test simple stacking algorithm, slight improvement">
+    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="add logistic regression and extra tree">
+      <change afterPath="$PROJECT_DIR$/eg_catboost.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,6 +119,8 @@
       <workItem from="1712530297228" duration="10897000" />
       <workItem from="1712610747861" duration="3470000" />
       <workItem from="1712691867445" duration="2393000" />
+      <workItem from="1712694265246" duration="578000" />
+      <workItem from="1712694938535" duration="998000" />
     </task>
     <task id="LOCAL-00001" summary="init repository">
       <option name="closed" value="true" />
@@ -151,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712614041947</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add logistic regression and extra tree">
+      <option name="closed" value="true" />
+      <created>1712694833582</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712694833582</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +173,8 @@
     <MESSAGE value="test initial algorithm" />
     <MESSAGE value="generate more algorithms" />
     <MESSAGE value="test simple stacking algorithm, slight improvement" />
-    <option name="LAST_COMMIT_MESSAGE" value="test simple stacking algorithm, slight improvement" />
+    <MESSAGE value="add logistic regression and extra tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="add logistic regression and extra tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
