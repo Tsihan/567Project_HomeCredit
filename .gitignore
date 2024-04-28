@@ -9,6 +9,7 @@ submission_stacking_v1.csv
 submission_extra_tree.csv
 submission_logistic_regression.csv
 submission_catboost.csv
+submission_CNN.csv
 
 test_func.ipynb
 catboost_info

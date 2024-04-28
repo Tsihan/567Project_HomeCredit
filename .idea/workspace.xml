@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="add logistic regression and extra tree">
-      <change afterPath="$PROJECT_DIR$/eg_catboost.ipynb" afterDir="false" />
+    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="add catboost">
+      <change afterPath="$PROJECT_DIR$/eg_CNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HomeCredit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HomeCredit.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eg_random_forest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eg_random_forest.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +63,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -120,7 +124,17 @@
       <workItem from="1712610747861" duration="3470000" />
       <workItem from="1712691867445" duration="2393000" />
       <workItem from="1712694265246" duration="578000" />
-      <workItem from="1712694938535" duration="998000" />
+      <workItem from="1712694938535" duration="1232000" />
+      <workItem from="1712977520429" duration="511000" />
+      <workItem from="1712989815282" duration="1431000" />
+      <workItem from="1713059964156" duration="66000" />
+      <workItem from="1713060033297" duration="445000" />
+      <workItem from="1713226454219" duration="2278000" />
+      <workItem from="1713375241036" duration="770000" />
+      <workItem from="1713418511050" duration="14000" />
+      <workItem from="1713478794960" duration="662000" />
+      <workItem from="1714246002760" duration="6158000" />
+      <workItem from="1714252236407" duration="2730000" />
     </task>
     <task id="LOCAL-00001" summary="init repository">
       <option name="closed" value="true" />
@@ -162,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712694833582</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add catboost">
+      <option name="closed" value="true" />
+      <created>1712696163589</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712696163589</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +196,8 @@
     <MESSAGE value="generate more algorithms" />
     <MESSAGE value="test simple stacking algorithm, slight improvement" />
     <MESSAGE value="add logistic regression and extra tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="add logistic regression and extra tree" />
+    <MESSAGE value="add catboost" />
+    <option name="LAST_COMMIT_MESSAGE" value="add catboost" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -188,6 +211,11 @@
           <url>notebook:///Users/qihanzhang/PycharmProjects/HomeCredit/eg_light_BGM.ipynb</url>
           <line>4</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/qihanzhang/PycharmProjects/HomeCredit/eg_CNN.ipynb</url>
+          <line>343</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
