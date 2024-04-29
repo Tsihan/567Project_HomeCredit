@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="add catboost">
-      <change afterPath="$PROJECT_DIR$/eg_CNN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HomeCredit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HomeCredit.iml" afterDir="false" />
+    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="add cnn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eg_random_forest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eg_random_forest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eg_CNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eg_CNN.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +132,8 @@
       <workItem from="1713478794960" duration="662000" />
       <workItem from="1714246002760" duration="6158000" />
       <workItem from="1714252236407" duration="2730000" />
+      <workItem from="1714266717350" duration="1282000" />
+      <workItem from="1714361170742" duration="7407000" />
     </task>
     <task id="LOCAL-00001" summary="init repository">
       <option name="closed" value="true" />
@@ -184,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712696163589</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add cnn">
+      <option name="closed" value="true" />
+      <created>1714266815237</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714266815237</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +204,8 @@
     <MESSAGE value="test simple stacking algorithm, slight improvement" />
     <MESSAGE value="add logistic regression and extra tree" />
     <MESSAGE value="add catboost" />
-    <option name="LAST_COMMIT_MESSAGE" value="add catboost" />
+    <MESSAGE value="add cnn" />
+    <option name="LAST_COMMIT_MESSAGE" value="add cnn" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -211,11 +219,6 @@
           <url>notebook:///Users/qihanzhang/PycharmProjects/HomeCredit/eg_light_BGM.ipynb</url>
           <line>4</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///Users/qihanzhang/PycharmProjects/HomeCredit/eg_CNN.ipynb</url>
-          <line>343</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
