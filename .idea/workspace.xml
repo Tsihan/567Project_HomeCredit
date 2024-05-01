@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="add cnn">
+    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="add mlp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eg_CNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eg_CNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eg_MLP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eg_MLP.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +133,9 @@
       <workItem from="1714246002760" duration="6158000" />
       <workItem from="1714252236407" duration="2730000" />
       <workItem from="1714266717350" duration="1282000" />
-      <workItem from="1714361170742" duration="7407000" />
+      <workItem from="1714361170742" duration="8611000" />
+      <workItem from="1714588977709" duration="636000" />
+      <workItem from="1714591144185" duration="5505000" />
     </task>
     <task id="LOCAL-00001" summary="init repository">
       <option name="closed" value="true" />
@@ -191,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714266815237</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add mlp">
+      <option name="closed" value="true" />
+      <created>1714369227523</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714369227523</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +215,8 @@
     <MESSAGE value="add logistic regression and extra tree" />
     <MESSAGE value="add catboost" />
     <MESSAGE value="add cnn" />
-    <option name="LAST_COMMIT_MESSAGE" value="add cnn" />
+    <MESSAGE value="add mlp" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mlp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
