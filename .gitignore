@@ -3,7 +3,7 @@ train
 .idea
 __pycache__
 .DS_Store
-submission*.csv
 
+submission*.csv
 test_func.ipynb
 catboost_info
