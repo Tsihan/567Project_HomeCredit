@@ -2,21 +2,8 @@ test
 train
 .idea
 __pycache__
+.DS_Store
+submission*.csv
 
-submission.csv
-submission_random_forest.csv
-submission_ridge_regression.csv
-submission_xg_boost.csv
-submission_avg_v1.csv
-submission_stacking_v1.csv
-submission_extra_tree.csv
-submission_logistic_regression.csv
-submission_catboost.csv
-submission_CNN.csv
-submission_MLP.csv
-submission_two_layer_stacking_v1.csv
-submission_two_layer_stacking_v2.csv
-submission_catboost_frequent_encode.csv
-submission_catboost_frequent_encode_255.csv
 test_func.ipynb
 catboost_info
