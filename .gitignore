@@ -1,5 +1,8 @@
 test
 train
+.idea
+__pycache__
+
 submission.csv
 submission_random_forest.csv
 submission_ridge_regression.csv

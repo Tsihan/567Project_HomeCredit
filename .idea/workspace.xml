@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="add two_layer stacking">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_process - catboost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_process - catboost.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="change ambiguous name demo to light_gbm" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,7 +139,7 @@
       <workItem from="1714757156894" duration="2677000" />
       <workItem from="1714770733308" duration="2196000" />
       <workItem from="1714780700863" duration="3155000" />
-      <workItem from="1714790048668" duration="5268000" />
+      <workItem from="1714790048668" duration="5896000" />
     </task>
     <task id="LOCAL-00001" summary="init repository">
       <option name="closed" value="true" />
@@ -217,7 +213,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714596870386</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add frequence_encode on catboost">
+      <option name="closed" value="true" />
+      <created>1714797079968</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1714797079968</updated>
+    </task>
+    <task id="LOCAL-00011" summary="change ambiguous name demo to light_gbm">
+      <option name="closed" value="true" />
+      <created>1714797550709</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714797550709</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,16 +245,13 @@
     <MESSAGE value="add cnn" />
     <MESSAGE value="add mlp" />
     <MESSAGE value="add two_layer stacking" />
-    <option name="LAST_COMMIT_MESSAGE" value="add two_layer stacking" />
+    <MESSAGE value="add frequence_encode on catboost" />
+    <MESSAGE value="change ambiguous name demo to light_gbm" />
+    <option name="LAST_COMMIT_MESSAGE" value="change ambiguous name demo to light_gbm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///Users/qihanzhang/PycharmProjects/HomeCredit/eg_light_BGM.ipynb</url>
           <line>4</line>
@@ -250,7 +259,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///Users/qihanzhang/PycharmProjects/HomeCredit/data_process - catboost.ipynb</url>
-          <line>331</line>
+          <line>325</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
