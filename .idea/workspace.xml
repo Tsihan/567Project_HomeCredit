@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="add mlp">
+    <list default="true" id="04af1cbb-2231-44f8-b495-58c50ded4738" name="更改" comment="add two_layer stacking">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eg_MLP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eg_MLP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_process - catboost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_process - catboost.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,6 +137,13 @@
       <workItem from="1714361170742" duration="8611000" />
       <workItem from="1714588977709" duration="636000" />
       <workItem from="1714591144185" duration="5505000" />
+      <workItem from="1714596779403" duration="125000" />
+      <workItem from="1714676808451" duration="435000" />
+      <workItem from="1714703454943" duration="3408000" />
+      <workItem from="1714757156894" duration="2677000" />
+      <workItem from="1714770733308" duration="2196000" />
+      <workItem from="1714780700863" duration="3155000" />
+      <workItem from="1714790048668" duration="5268000" />
     </task>
     <task id="LOCAL-00001" summary="init repository">
       <option name="closed" value="true" />
@@ -201,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714369227523</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add two_layer stacking">
+      <option name="closed" value="true" />
+      <created>1714596870386</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714596870386</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +232,8 @@
     <MESSAGE value="add catboost" />
     <MESSAGE value="add cnn" />
     <MESSAGE value="add mlp" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mlp" />
+    <MESSAGE value="add two_layer stacking" />
+    <option name="LAST_COMMIT_MESSAGE" value="add two_layer stacking" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -230,6 +247,11 @@
           <url>notebook:///Users/qihanzhang/PycharmProjects/HomeCredit/eg_light_BGM.ipynb</url>
           <line>4</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/qihanzhang/PycharmProjects/HomeCredit/data_process - catboost.ipynb</url>
+          <line>331</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

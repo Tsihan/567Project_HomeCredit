@@ -13,5 +13,7 @@ submission_CNN.csv
 submission_MLP.csv
 submission_two_layer_stacking_v1.csv
 submission_two_layer_stacking_v2.csv
+submission_catboost_frequent_encode.csv
+submission_catboost_frequent_encode_255.csv
 test_func.ipynb
 catboost_info
