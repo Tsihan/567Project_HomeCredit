@@ -8,3 +8,6 @@ To run the notebook, you can simply run them either by VS Code or Pycharm. If yo
 
 ## How to get the data
 The data is available here: https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/data. If you don't want to register, we also provide them here: https://drive.google.com/file/d/17u2HrtrU8T3aG50jjeKn5xqRwa-6B24w/view?usp=drive_link. We use CSV files to do the competition, the complete size is 3GB or so when compressed, and 22GB or so when uncompressed. Take a look at the files' positions in the code, and make sure to put them in the correct place(so the test folder, the train folder, and these notebooks should be in parallel positions). The `feature_definitions.csv` and `sample_submission.csv` won't be used in the model, just to understand the feature defined in the CSV files and the submission form.
+
+## Notebook File Names
+The names start with `data_processed_frequence_encoded` means we use 255 features and do the frequency encoding. The names start with `eg` means we just use limited features to do the running. There are some in-between files which you can understand according to the names.
